@@ -1,3 +1,16 @@
 # Olá, me chamo Pedro Lailton 👋
 
-Desenvolvedor web
+
+
+## Sobre
+
+
+
+## HABILIDADES
++HTML
++CSS
++JavaScript
+
+## Projetos
+
+
