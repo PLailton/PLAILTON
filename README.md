@@ -8,9 +8,11 @@
 
 ## HABILIDADES
 
-- HTML
-- CSS
-- JavaScript
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [] Python
+- [] Banco de dasos
 
 ## Projetos
 
