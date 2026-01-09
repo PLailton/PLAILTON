@@ -7,9 +7,9 @@
 
 
 ## HABILIDADES
-+HTML
+-HTML
 +CSS
-+JavaScript
+*JavaScript
 
 ## Projetos
 
