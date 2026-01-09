@@ -7,10 +7,11 @@
 
 
 ## HABILIDADES
--HTML
-+CSS
-*JavaScript
+
+- HTML
+- CSS
+- JavaScript
 
 ## Projetos
 
-
+[Meu Projeto](https://plailton.github.io/BlocoNotas/)
